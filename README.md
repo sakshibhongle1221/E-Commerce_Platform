@@ -65,13 +65,13 @@ and dynamic product display.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sakshibhongle1221/AmazonClone.git
+git clone https://github.com/sakshibhongle1221/E-Commerce_Platform.git
 ```
 
 2. **Navigate to the project folder**
 
 ```bash
-cd AmazonClone
+cd E-Commerce_Platform
 ```
 
 3. **Install dependencies**
