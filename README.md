@@ -1,4 +1,4 @@
-# Amazon Clone
+# E-Commerce Platform
 
 ## 🛒 Project Description
 
