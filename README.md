@@ -2,7 +2,7 @@
 
 ## 🛒 Project Description
 
-Amazon Clone is a fully functional e-commerce web application,
+E-Commerce Platform is a fully functional e-commerce web application,
 built using HTML, CSS, and JavaScript. 
 It includes features like 
 product browsing,
